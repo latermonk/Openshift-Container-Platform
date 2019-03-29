@@ -18,6 +18,12 @@ vim `/etc/containers/registries.conf`
 registries = ['172.30.0.0/16']
 ```
 
+参考：
+https://developer.fedoraproject.org/deployment/openshift/about.html
+
+
+
+
 
 #  get start
 
