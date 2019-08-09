@@ -8,6 +8,9 @@ https://www.okd.io/
 
 ![okd](_image/okd.png)
 
+#  Quick Start    
+
+https://docs.okd.io/latest/getting_started/administrators.html    
 
 # Install
 
