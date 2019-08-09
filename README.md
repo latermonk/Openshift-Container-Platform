@@ -12,6 +12,14 @@ https://www.okd.io/
 
 https://docs.okd.io/latest/getting_started/administrators.html    
 
+
+```
+./oc cluster up --skip-registry-check=true --public-hostname=10.254.21.1
+```
+
+--public-hostname=127.0.0.1
+
+
 # Install
 
 Q1:
