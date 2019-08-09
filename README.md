@@ -1,6 +1,9 @@
 # redhat-openshift-platform
 
 
+#  OKD   
+https://www.okd.io/      
+
 # Install
 
 Q1:
