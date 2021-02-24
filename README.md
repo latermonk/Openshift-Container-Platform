@@ -1,5 +1,7 @@
-# redhat-openshift-platform
+# Openshift-platform    
 
+
+https://access.redhat.com/documentation/zh-cn/openshift_container_platform/4.6/    
 
 #  OKD   
 
