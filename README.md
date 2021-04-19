@@ -1,6 +1,10 @@
 # Openshift-platform    
 
 
+https://learn.openshift.com/   
+
+
+
 
 ## 9stepsawesome
 
